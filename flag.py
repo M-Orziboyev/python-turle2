@@ -1,6 +1,6 @@
 from turtle import *
 
-bgcolor('black')
+bgcolor('grey')
 speed(0)
 color('green')
 begin_fill()
